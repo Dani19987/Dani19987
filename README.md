@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
 	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 <hr>
-<h3 style="margin-top: 4px;">Mathematician</h3>
+<h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
 • 💪🏻 I'm a Mathematician.<br>
 • 🌱 I’m currently learning Data Analysis Foundaton... 😭<br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
